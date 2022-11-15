@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, rgb(28, 125, 230), rgb(37, 145, 37));
+  text-align: center;
+  padding-top: 40px;
+  
+}
+
+p {
+  font-size: 25px;
+}
+
+pre {
+  font-size: 20px;
+}
